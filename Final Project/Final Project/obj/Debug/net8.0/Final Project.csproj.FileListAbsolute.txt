@@ -1,0 +1,14 @@
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.exe
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.dll
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.dll
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\refint\Final Project.dll
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.pdb
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.deps.json
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.runtimeconfig.json
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.pdb
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Desktop\Final Project\Final Project\Final Project\obj\Debug\net8.0\ref\Final Project.dll
